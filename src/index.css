@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: -apple-system, BlinkMacSystemFont, 'ui-sans-serif', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  body {
+    @apply bg-slate-50 text-slate-900;
+  }
+  * {
+    @apply box-border;
+  }
+}
+
+@layer utilities {
+  .text-gradient-ep {
+    background: linear-gradient(135deg, #06b6d4 0%, #ec4899 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  /* Prevent iOS text size adjustment */
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+}
+
+/* Equalizer animation */
+@keyframes eq-bar {
+  from { transform: scaleY(0.25); }
+  to   { transform: scaleY(1); }
+}
+
+@keyframes eq-pulse {
+  from { transform: scaleY(0.2); }
+  to   { transform: scaleY(1); }
+}
+
+@media print {
+  header, footer, nav, .no-print, button, iframe {
+    display: none !important;
+  }
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+    font-size: 11pt !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  a {
+    text-decoration: none !important;
+    color: #000000 !important;
+  }
+  @page {
+    margin: 1.5cm;
+  }
+}

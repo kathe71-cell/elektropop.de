@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>elektropop.de – Magazin &amp; BPM-Archiv</title>
+    <link>https://elektropop.de/</link>
+    <description>Faktenbasiertes deutsches Magazin für Electro Pop, Synthesizer-Architekturen und BPM-Klassifikationen.</description>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 07 Sep 2026 12:00:00 +0200</lastBuildDate>
+    <atom:link href="https://elektropop.de/feed.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Definition &amp; Taxonomie: Was ist Electro Pop?</title>
+      <link>https://elektropop.de/</link>
+      <guid>https://elektropop.de/#definition</guid>
+      <pubDate>Mon, 07 Sep 2026 10:00:00 +0200</pubDate>
+      <description>Umfassende Definition des Genres Electro Pop nach IFPI-Klassifikation, MMA MIDI-Standard 1.0 und EBU R128 Lautheitsnorm.</description>
+    </item>
+
+    <item>
+      <title>Künstler-Matrix: 8 wegweisende Pioniere und moderne Ikonen</title>
+      <link>https://elektropop.de/kuenstler</link>
+      <guid>https://elektropop.de/kuenstler</guid>
+      <pubDate>Mon, 07 Sep 2026 10:30:00 +0200</pubDate>
+      <description>Tiefenprofile mit Synthesizer-Setups und BPM-Angaben: Von Kraftwerk (1970) über New Order bis SOPHIE und Charli XCX.</description>
+    </item>
+
+    <item>
+      <title>Interaktives Tool: BPM &amp; Subgenre-Klassifikator</title>
+      <link>https://elektropop.de/rechner-embed</link>
+      <guid>https://elektropop.de/rechner-embed</guid>
+      <pubDate>Mon, 07 Sep 2026 11:00:00 +0200</pubDate>
+      <description>Notenlängen in Millisekunden berechnen, Kirchentonarten bestimmen und BPM-Werte 5 Electro-Pop-Subgenres zuordnen.</description>
+    </item>
+  </channel>
+</rss>

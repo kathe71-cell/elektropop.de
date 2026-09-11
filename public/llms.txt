@@ -1,0 +1,27 @@
+# elektropop.de
+
+> Das deutsche Fachportal für Electro Pop: Musikwissenschaftliche Analysen, Synthesizer-Architekturen, BPM-Klassifikationen, EBU R128 Normen und Künstlerbiografien.
+
+## Übersicht & Definition
+- **Genre**: Electro Pop (Kombination aus elektronischer Klangerzeugung und Pop-Songstrukturen).
+- **Historischer Ursprung**: ca. 1977 (Düsseldorf/UK), geprägt durch Kraftwerk, Depeche Mode, New Order.
+- **BPM-Hauptbereich**: 100 bis 140 BPM (Standard: 120–128 BPM).
+- **Lautheitsnorm**: –14 LUFS (EBU R128 Streaming-Standard).
+- **Technologie**: MMA MIDI-Standard 1.0 (1983), Roland TR-808/909, Roland Juno-106, Yamaha DX7, Fairlight CMI.
+
+## Kern-Ressourcen
+- [Startseite](https://elektropop.de/): Definition, Taxonomie, E-E-A-T Redaktions-Trust, FAQ.
+- [Künstler-Datenbank](https://elektropop.de/kuenstler): Tiefenprofile zu Kraftwerk, Depeche Mode, New Order, Pet Shop Boys, Charli XCX, SOPHIE, Grimes, Fever Ray.
+- [BPM & Subgenre-Klassifikator](https://elektropop.de/rechner-embed): Interaktives Tool zur Berechnung von Notenlängen (ms), Tonarten und Subgenre-Zuordnung (Minimal, Synth-Pop, Classic, Dance-Elektro, Hyper-Pop).
+
+## Subgenre-BPM-Matrix
+1. **Minimal Electro**: 80–100 BPM (Moog Minimoog, ARP 2600, EMS VCS3). Ref: Kraftwerk – Autobahn (98 BPM).
+2. **Synth-Pop / New Wave**: 100–118 BPM (Roland Juno-106, Oberheim OB-X). Ref: Depeche Mode – Just Can't Get Enough (112 BPM).
+3. **Classic Electro Pop**: 118–130 BPM (Roland TR-808, Yamaha DX7, Fairlight CMI). Ref: Pet Shop Boys – West End Girls (120 BPM).
+4. **Dance-Elektro / Club-Pop**: 130–140 BPM (Roland TR-909, TB-303, Serum). Ref: New Order – Blue Monday (133 BPM), Charli XCX – Boom Clap (126 BPM).
+5. **Hyper-Pop / PC Music**: 140–180 BPM (Max/MSP, Modular DSP). Ref: SOPHIE – Lemonade (148 BPM).
+
+## Impressum & Betreiber
+- Verantwortlich: Jens Kathe, Hansastraße 6, 34119 Kassel, Deutschland.
+- E-Mail: jens@kathe.org | Tel: +49 178 6652623.
+- Rechtsform: Kleinunternehmer nach § 19 UStG.
