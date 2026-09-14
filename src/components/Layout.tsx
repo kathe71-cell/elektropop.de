@@ -1,5 +1,6 @@
 import { Outlet, Link, useLocation } from 'react-router-dom'
 import { useState } from 'react'
+import ScrollToTop from './ScrollToTop'
 
 const NAV = [
   { to: '/', label: 'Magazin' },
@@ -142,6 +143,8 @@ export default function Layout() {
           </Link>
         ))}
       </div>
+
+      <ScrollToTop />
     </div>
   )
 }
