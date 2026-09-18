@@ -8,9 +8,9 @@ import Layout from './components/Layout'
 
 import VercelAnalytics from './components/VercelAnalytics'
 
-function App() {
+export function AppRoutes() {
   return (
-    <BrowserRouter>
+    <>
       <VercelAnalytics />
       <Routes>
         <Route path="/rechner-embed" element={<RechnerEmbed />} />
@@ -21,6 +21,14 @@ function App() {
           <Route path="/datenschutz" element={<Datenschutz />} />
         </Route>
       </Routes>
+    </>
+  )
+}
+
+function App() {
+  return (
+    <BrowserRouter>
+      <AppRoutes />
     </BrowserRouter>
   )
 }
