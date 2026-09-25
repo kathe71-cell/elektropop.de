@@ -17,9 +17,6 @@ export default function Impressum() {
             <a href="mailto:jens@kathe.org" className="text-cyan-600 hover:underline">jens@kathe.org</a><br />
             <a href="tel:+4917866526230" className="text-cyan-600 hover:underline">+49 178 6652623</a>
           </p>
-          <p className="mt-3">
-            Kleinunternehmer nach § 19 UStG
-          </p>
         </section>
 
         <section>
